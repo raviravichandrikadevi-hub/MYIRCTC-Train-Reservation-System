@@ -1,11 +1,9 @@
-MYIRCTC – Train Reservation System
+# MYIRCTC – Train Reservation System
 
-Project Description
-
+## Project Description
 MYIRCTC is a console-based Train Reservation System developed using C programming.
 
-Features
-
+## Features
 - User Sign Up
 - User Sign In
 - Train Information Display
@@ -13,13 +11,11 @@ Features
 - Ticket Cancellation
 - Booking Details
 
-Technologies Used
-
+## Technologies Used
 - C Programming
 - Data Structures
 - Linked Lists
 - File Handling
 
-Purpose
-
+## Purpose
 This project is developed to understand C programming concepts and implement a basic train reservation system.
